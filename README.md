@@ -1,2 +1,2 @@
 # FloatyBird
-A Unity flappy bird (almost) clone that I created in order to practice programming
+A Unity flappy bird (almost) clone
